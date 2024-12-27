@@ -10,7 +10,7 @@ on:
 jobs:
   build-and-test:
     # Specify the environment where the job runs
-    runs-on: ubuntu-latest
+    runs-on: centos-latest
 
     # Steps to execute
     steps:
